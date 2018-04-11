@@ -1,0 +1,12 @@
+{
+  "name": "ng-redux-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run git-clone && cd angular5-bootstrap4-ng-bootstrap && npm install && npm start",
+    "git-clone": "git clone https://github.com/DevPrasan1/angular5-bootstrap4-ng-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
